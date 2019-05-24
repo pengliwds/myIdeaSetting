@@ -3,6 +3,7 @@
     <includes_templates>
       <template name="ActionScript File Header.as" reformat="true" live-template-enabled="true" enabled="true" />
       <template name="File Header.java" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="oneline.java" reformat="true" live-template-enabled="true" />
     </includes_templates>
   </component>
 </application>
