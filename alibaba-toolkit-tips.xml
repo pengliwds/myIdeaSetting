@@ -1,7 +1,9 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectName="$USER_HOME$/workspace/project/beservice" firstStartUp="false" />
     <entry projectName="$USER_HOME$/workspace/project/mas-middle" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/workspace/project/oip_middle" firstStartUp="false" />
     <entry projectName="$USER_HOME$/workspace/project/web-agg-svr" firstStartUp="false" />
   </component>
 </application>
