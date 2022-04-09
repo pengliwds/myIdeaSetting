@@ -3,6 +3,13 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="504" />
     <histories>
+      <item value="Initialize other special beans in specific context subclasses." />
+      <item value="Initialize message source for this context." />
+      <item value="Register bean processors that intercept bean creation." />
+      <item value="Allows post-processing of the bean factory in context subclasses." />
+      <item value="Invoke factory processors registered as beans in the context." />
+      <item value="For an alternative implementation of the {@link org.springframework.beans.factory.ListableBeanFactory} interface, have a look at {@link StaticListableBeanFactory}, which manages existing bean instances rather than creating new ones based on bean definitions." />
+      <item value="which manages existing bean instances rather than creating new ones based on bean definitions." />
       <item value="Note that readers for specific bean definition formats are typically implemented separately rather than as bean factory subclasses:" />
       <item value="Can be used as a standalone bean factory, or as a superclass for custom bean factories. Note that readers for specific bean definition formats are typically implemented separately rather than as bean factory subclasses:" />
       <item value="Typical usage is registering all bean definitions first (possibly read from a bean definition file), before accessing beans. Bean definition lookup is therefore an inexpensive operation in a local bean definition table, operating on pre-built bean definition metadata objects." />
