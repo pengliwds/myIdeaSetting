@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="504" />
     <histories>
+      <item value="Configure the bean factory with context callbacks." />
       <item value="Initialize any placeholder property sources in the context environment" />
       <item value="performing" />
       <item value="setting its startup date and" />
