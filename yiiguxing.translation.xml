@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="504" />
     <histories>
+      <item value="Initialize any placeholder property sources in the context environment." />
       <item value="Initialize other special beans in specific context subclasses." />
       <item value="Initialize message source for this context." />
       <item value="Register bean processors that intercept bean creation." />
